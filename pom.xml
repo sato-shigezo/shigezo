@@ -199,7 +199,6 @@
 						</goals>
 						<configuration>
 							<assembleDirectory>target</assembleDirectory>
-							<generateRepository>false</generateRepository>
 							<programs>
 								<program>
 									<mainClass>com.example.RunLiftApp</mainClass>
