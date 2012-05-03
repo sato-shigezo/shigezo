@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 target
+=======
+*.class
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+>>>>>>> 8a54654ae96b00d25696a91ab4af2ec53ebc0443
